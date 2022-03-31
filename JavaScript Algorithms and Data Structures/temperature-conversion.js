@@ -12,3 +12,6 @@ let newton = celsius * (33 / 100);
 // Round down decimal number of Newton.
 newton = Math.floor(newton);
 console.log(`The temperature is ${newton} degrees Newton.`);
+
+document.getElementById("fahrenheit").innerHTML = `The temperature is ${fahrenheit} degrees Fahrenheit.`;
+document.getElementById("newton").innerHTML = `The temperature is ${newton} degrees Newton.`;
