@@ -10,3 +10,4 @@
 - [Weather Conversion](https://apolloh4x.github.io/code-samples/JavaScript%20Algorithms%20and%20Data%20Structures/temperature-conversion-test.html)
 - [People Counter app](https://apolloh4x.github.io/code-samples/people-counter/index.html)
 - [Simple Calculator](https://apolloh4x.github.io/code-samples/simple-calculator/index.html)
+- [Black Jack](https://apolloh4x.github.io/code-samples/blackjack/index.html)
