@@ -1,0 +1,29 @@
+1661821213526	geckodriver	INFO	Listening on 127.0.0.1:63223
+1661821216606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63224" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jessi\\AppData\\Local\\Temp\\rust_mozprofilehXdtrD"
+1661821217058	Marionette	INFO	Marionette enabled
+1661821217061	Marionette	INFO	Listening on port 63233
+WebDriver BiDi listening on ws://localhost:63224
+Read port: 63233
+1661821217132	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jessi\\AppData\\Local\\Temp\\rust_mozprofilehXdtrD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63224/devtools/browser/b25ca86c-708e-4ea4-b998-1ea61f3ff3df
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+1661821218928	Marionette	INFO	Stopped listening on port 63233
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+1661821300339	geckodriver	INFO	Listening on 127.0.0.1:63312
+1661821303394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jessi\\AppData\\Local\\Temp\\rust_mozprofilewBcXaO"
+1661821303634	Marionette	INFO	Marionette enabled
+1661821303636	Marionette	INFO	Listening on port 63323
+WebDriver BiDi listening on ws://localhost:63313
+Read port: 63323
+1661821303786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\jessi\\AppData\\Local\\Temp\\rust_mozprofilewBcXaO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63313/devtools/browser/74bf24a3-3057-481d-93e9-ebf8ef157c21
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 183: TypeError: this._element is null
+1661821335293	Marionette	INFO	Stopped listening on port 63323
