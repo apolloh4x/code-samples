@@ -4,5 +4,3 @@ function testEqual(val) {
   }
   return "Not Equal";
 }
-
-testEqual(12);

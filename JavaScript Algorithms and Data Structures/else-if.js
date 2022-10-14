@@ -11,3 +11,14 @@ if (season === 'spring') {
 } else {
    console.log('Invalid season.');
 }
+
+    var bobsPoints = 0;
+    var alicePoints = 0;
+    for (var i =0; i < 3; i++){
+        if (a[i] < b[i]) {
+            bobsPoints = bobsPoints + 1; 
+        } else if (a[i] > b[i]) {
+            alicePoints = alicePoints + 1;
+        }
+    }
+    return  [alicePoints, bobsPoints] 
